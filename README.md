@@ -2,7 +2,7 @@
 
 ### What is this about?
 
-- after clicking a link in nav, smooth anchor jump/scroll in that page to another section on that page
+- after clicking a link in nav, smooth anchor jump/scroll to another section on that page
 - use simple JavaScript, no jQueryWhatsoever
 - the target sections are detected automatically by searching for the ids of the target (here, `href`)
 
